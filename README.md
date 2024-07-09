@@ -71,7 +71,7 @@ python app.py
 
 1. **Create an ECR Repository**:
    - Create an ECR repository to store/save your Docker image.
-   - Save the URI, e.g., `566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s`.
+   - Save the URI, e.g., `51254316292.dkr.ecr.us-east-1.amazonaws.com/ECR-repo-name`.
 
 2. **Create an EC2 Machine (Ubuntu)**:
    - Launch a new EC2 instance running Ubuntu.
